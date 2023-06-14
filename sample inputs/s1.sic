@@ -1,8 +1,0 @@
-	START	1000
-	LDA	ALPHA
-	.
-	.	
-	.
-
-ALPHA	BYTE	C'TEST STRING'
-		BYTE	C'OK'
